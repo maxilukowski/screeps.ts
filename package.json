@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxilukowski/screeps.ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxilukowski/screeps.ts/issues"
+  },
+  "homepage": "https://github.com/maxilukowski/screeps.ts#readme"
+}
