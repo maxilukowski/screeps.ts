@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/maxilukowski/screeps.ts/issues"
   },
-  "homepage": "https://github.com/maxilukowski/screeps.ts#readme"
+  "homepage": "https://github.com/maxilukowski/screeps.ts#readme",
+  "dependencies": {
+    "@types/screeps": "^3.2.2"
+  }
 }
