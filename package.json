@@ -22,5 +22,8 @@
   "homepage": "https://github.com/maxilukowski/screeps.ts#readme",
   "dependencies": {
     "@types/screeps": "^3.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.4"
   }
 }
